@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "159889455276",
+    "firebase_url": "https://framechat-71d32.firebaseio.com",
+    "project_id": "framechat-71d32",
+    "storage_bucket": "framechat-71d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159889455276:android:39406268014112d0",
+        "android_client_info": {
+          "package_name": "id.nian.firebasenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159889455276-qi8jtlids92s0gm0n9bdtsnpsuerkbn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.nian.firebasenotif",
+            "certificate_hash": "73DA0694A1A56836A029CDE92F08511B736791BE"
+          }
+        },
+        {
+          "client_id": "159889455276-qespmlpcpkl5ik5ljikq4bt41ogm6uf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTaHwGsc2oOYeRJYWcFKyxU3l-O0l55Ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
